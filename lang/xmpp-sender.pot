@@ -1,0 +1,143 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Alexey Laptev
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/xmpp-sender\n"
+"POT-Creation-Date: 2009-02-06 22:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: xmpp-sender.php:233
+msgid "Options saved!"
+msgstr ""
+
+#: xmpp-sender.php:239
+msgid "XMPP sender options"
+msgstr ""
+
+#: xmpp-sender.php:244
+msgid ""
+"Enter a jabber server which you will use to send messages from site. You "
+"should have a jabber account on it (talk.google.com for example)"
+msgstr ""
+
+#: xmpp-sender.php:249
+msgid "Enter a jabber server port (5222 for example)"
+msgstr ""
+
+#: xmpp-sender.php:254
+msgid "Enter login to your account on server entered previously"
+msgstr ""
+
+#: xmpp-sender.php:259
+msgid "Enter password to your account on server entered previously"
+msgstr ""
+
+#: xmpp-sender.php:264
+msgid "Send copy to special admin jabber account?"
+msgstr ""
+
+#: xmpp-sender.php:267 xmpp-sender.php:280 xmpp-sender.php:290
+msgid "No"
+msgstr ""
+
+#: xmpp-sender.php:268 xmpp-sender.php:281 xmpp-sender.php:291
+msgid "Yes"
+msgstr ""
+
+#: xmpp-sender.php:273
+msgid "Admin account (for copies):"
+msgstr ""
+
+#: xmpp-sender.php:277
+msgid "Send message to the author of the post (new comment)?"
+msgstr ""
+
+#: xmpp-sender.php:287
+msgid ""
+"Override emailing with xmpp for all notifications(included standard and in "
+"another plugins?"
+msgstr ""
+
+#: xmpp-sender.php:301
+msgid "Messages template"
+msgstr ""
+
+#: xmpp-sender.php:304
+msgid "Text befor variable"
+msgstr ""
+
+#: xmpp-sender.php:305
+msgid "Variable"
+msgstr ""
+
+#: xmpp-sender.php:306
+msgid "Text after variable"
+msgstr ""
+
+#: xmpp-sender.php:315 xmpp-sender.php:332 xmpp-sender.php:349
+#: xmpp-sender.php:366 xmpp-sender.php:383
+msgid "Comment author"
+msgstr ""
+
+#: xmpp-sender.php:316 xmpp-sender.php:333 xmpp-sender.php:350
+#: xmpp-sender.php:367 xmpp-sender.php:384
+msgid "Post title"
+msgstr ""
+
+#: xmpp-sender.php:317 xmpp-sender.php:334 xmpp-sender.php:351
+#: xmpp-sender.php:368 xmpp-sender.php:385
+msgid "Comment author E-mail"
+msgstr ""
+
+#: xmpp-sender.php:318 xmpp-sender.php:335 xmpp-sender.php:352
+#: xmpp-sender.php:369 xmpp-sender.php:386
+msgid "Comment content"
+msgstr ""
+
+#: xmpp-sender.php:319 xmpp-sender.php:336 xmpp-sender.php:353
+#: xmpp-sender.php:370 xmpp-sender.php:387
+msgid "Post URL"
+msgstr ""
+
+#: xmpp-sender.php:403
+msgid "Save"
+msgstr ""
+
+#: xmpp-sender.php:404
+msgid "Send Test to Admin account (after save)!"
+msgstr ""
+
+#. Plugin Name of an extension
+msgid "XMPP sender"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://blog.laptev.info/projects"
+msgstr ""
+
+#. Description of an extension
+msgid ""
+"Notifications from blog to Jabber accounts of post author and(or) admin in "
+"case of new comment. Also you can override standard mailing to xmpp. Send "
+"your suggestions and critics to <a "
+"href=\"mailto:webmaster@blog.laptev.info\">webmaster@blog.laptev.info</a> or "
+"in the plugin page as a comments."
+msgstr ""
+
+#. Author of an extension
+msgid "Alexey Laptev"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://blog.laptev.info/"
+msgstr ""
